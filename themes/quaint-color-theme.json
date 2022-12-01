@@ -1,10 +1,34 @@
 {
 	"name": "quaint",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"titleBar.activeBackground": "#444459",
+		"menu.background": "#292938",
+		"menu.selectionBackground": "#904ac2",
+		
+		"activityBar.background": "#444459",
+		"activityBarBadge.background": "#18cc00",
+
+		"sideBar.background": "#292938",
+		"list.hoverBackground": "#444459",
+		"list.activeSelectionBackground": "#904ac2",
+		
+		"tab.activeBorderTop": "#904ac2",
+		"tab.inactiveBackground": "#444459",
+		"tab.hoverBackground": "#625878",
+		"tab.activeBackground": "#292938",
+		"editorGroupHeader.tabsBackground": "#292938",
+		"breadcrumbPicker.background": "#292938",
+
+		"editor.background": "#292938",
+		"editor.findMatchBorder": "#904ac2",
+		"input.background": "#292938",
+		"input.border": "#904ac2",
+
+		"panelTitle.activeBorder": "#904ac2",
+		"badge.background": "#904ac2",
+
+		"terminal.findMatchBorder": "#904ac2",
+		
 	},
 	"tokenColors": [
 		{
